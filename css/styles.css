@@ -1,0 +1,19 @@
+body {
+  background-color: black;
+  text-align: center;
+}
+
+.flashy {
+  color:red;
+}
+
+li {
+  list-style: none;
+}
+
+.best {
+  font-size: large;
+  font-family: fantasy;
+  font-weight: 800;
+  color:darkred;
+}
